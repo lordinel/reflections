@@ -6,3 +6,4 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	This is to prevent unintended changes to your local repository.
 
+This is a test.
