@@ -6,4 +6,7 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	This is to prevent unintended changes to your local repository.
 
-This is a test.
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Branch makes a new path in your local repository. Clone allows you to make a copy of a repository to your local driver, whether from the same local drive or from GitHub. Fork allows you to make a copy of a GitHub repository to your own GitHub account.
+
