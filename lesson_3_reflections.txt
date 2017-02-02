@@ -13,3 +13,8 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	You can review the changes made to remote even while offline.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	If there is no Git or GitHub, collaboration will be done by copy-pasting files back and forth to a central server. It will be harder since there is no way to track and review changes.
+
