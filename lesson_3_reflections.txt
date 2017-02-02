@@ -10,3 +10,6 @@ Describe the differences between forks, clones, and branches. When would you use
 
 	Branch makes a new path in your local repository. Clone allows you to make a copy of a repository to your local driver, whether from the same local drive or from GitHub. Fork allows you to make a copy of a GitHub repository to your own GitHub account.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	You can review the changes made to remote even while offline.
